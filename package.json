@@ -8,16 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ldn0x7dc/react-native-transformable-image.git"
+    "url": "git+https://github.com/andreimc/react-native-transformable-image.git"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ldn0x7dc/react-native-transformable-image/issues"
-  },
-  "homepage": "https://github.com/ldn0x7dc/react-native-transformable-image#readme",
   "dependencies": {
     "prop-types": "^15.6.0",
-    "react-native-view-transformer": "andreimc/react-native-view-transformer.git#5b9982b7a57ce033d7d7ed25a045a0b2b7d524ff"
+    "react-native-view-transformer": "andreimc/react-native-view-transformer.git#master"
   }
 }
