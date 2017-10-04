@@ -88,7 +88,7 @@ react-native-scroller@0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/react-native-scroller/-/react-native-scroller-0.0.6.tgz#dea8c89bd1ca2d2445fbb6b3a90960df6c1767ff"
 
-react-native-view-transformer@andreimc/react-native-view-transformer.git#master:
+react-native-view-transformer@andreimc/react-native-view-transformer.git#958cbce90ee9737748ac0f6dbddfb7dbd2b5fa2d:
   version "0.0.28"
   resolved "https://codeload.github.com/andreimc/react-native-view-transformer/tar.gz/958cbce90ee9737748ac0f6dbddfb7dbd2b5fa2d"
   dependencies:
